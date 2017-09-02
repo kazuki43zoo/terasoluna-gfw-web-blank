@@ -163,6 +163,12 @@
         </dependency>
         <!-- == End TERASOLUNA == -->
 
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>webjars-locator</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
         <!-- == Begin Tomcat == -->
         <!-- Servlet API 3.0 & JSP API 2.2 -->
         <dependency>
